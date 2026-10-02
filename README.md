@@ -2,7 +2,7 @@
 
 The Snake Game your about to see, seems like you typical snake game at first but its much harder that that, its a two Player based game, with obsticals
 TRY THE GAME
-- https://mannyrg.github.io/Snakes-lazers/
+- https://mazzirg.github.io/Snakes-lazers/
 
 ![ThA SnAke GAme](https://images-na.ssl-images-amazon.com/images/I/518xyJeQD6L.jpg)
 
